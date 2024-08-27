@@ -36,6 +36,7 @@ return (
 
   <main className="App">
      <h2 className="header">Retail Tracker</h2>
+     <Transactions/>
       <Routes>
         <Route path="shopping" element={<Reciepts/>}/>
          {/* public routes */}

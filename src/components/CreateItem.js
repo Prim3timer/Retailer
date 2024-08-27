@@ -2,7 +2,6 @@ import reducer from "../reducer"
 import initialState from "../store"
 import axios from '../app/api/axios'
 import { useEffect, useReducer, useRef } from "react"
-import { type } from "@testing-library/user-event/dist/type"
 const {v4: uuid} = require('uuid')
 
 

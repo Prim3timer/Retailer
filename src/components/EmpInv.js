@@ -5,7 +5,6 @@ import { useEffect, useReducer, useState, useRef, createContext     } from "reac
 import SearchItem from "./SearchItem"
 import { Link } from "react-router-dom"
 import Edit from "./Edit"
-import { type } from "@testing-library/user-event/dist/type"
 const {v4: uuid} = require('uuid')
 
 const EmpInv = ()=> {
