@@ -1,7 +1,7 @@
 {
   "name": "sowore",
   "version": "0.1.0",
-  "homepage": "https://prim3timer.github.io/retailer",
+  "homepage": "https://prim3timer.github.io/Retailer",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
